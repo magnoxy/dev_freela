@@ -1,0 +1,6 @@
+@DevFreela.API_HostAddress = http://localhost:5016
+
+GET {{DevFreela.API_HostAddress}}/api/projects
+Accept: application/json
+
+###
